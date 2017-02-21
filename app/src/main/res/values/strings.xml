@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android 2.11</string>
+    <string name="portrait_mode_text_view">portrait mode text view</string>
+    <string name="landscape_mode_text_view">landscape mode text view</string>
+</resources>
